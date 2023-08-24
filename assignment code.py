@@ -50,7 +50,7 @@ elif choice == 3:
 else:
     print("Invalid choice")
 
-# Print the results
+# Print the result
 print("Search results:")
 for result in results:
     print(f"Match Location: {result.location}")
